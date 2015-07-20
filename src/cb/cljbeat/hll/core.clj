@@ -95,8 +95,6 @@
   (estimateCardinality [this])
   (linearCount [this])
   (countDistinct [this]))
-  ; (packHll [this])
-  ; (unpackHll [this packed-data]))
 
 ;;; hll "class"
 (defrecord HyperLogLog [index-bits num-bins bin-vector]
