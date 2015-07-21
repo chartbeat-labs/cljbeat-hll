@@ -3,6 +3,8 @@
 Implementation of HyperLogLog based on
 https://github.com/svpcom/hyperloglog/blob/master/hyperloglog/hll.py.
 
+This project is a part of [cljbeat](http://chartbeat-labs.github.io/cljbeat/).
+
 ## Usage
 
 ```
