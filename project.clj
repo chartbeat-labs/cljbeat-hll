@@ -1,4 +1,4 @@
-(defproject com.charbeat.cljbeat/hll "1.0.0"
+(defproject com.chartbeat.cljbeat/hll "1.0.0"
   :description "Hll implementation in clojure"
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/math.numeric-tower "0.0.4"]
